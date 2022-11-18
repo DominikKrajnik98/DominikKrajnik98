@@ -7,7 +7,7 @@
 My current position is Frontend developer at Voicelab.AI:
 https://voicelab.ai/
 
-My realizations with wordpress:
+My projects created with wordpress:
  - [https://voicelab.ai/](https://voicelab.ai/)
  - [https://aigames.it/](https://aigames.it/)
  - [https://ai-electrify.com/](https://ai-electrify.com/)
