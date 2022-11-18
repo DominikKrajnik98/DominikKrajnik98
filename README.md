@@ -12,6 +12,7 @@ My realizations with wordpress:
  - [https://aigames.it/](https://aigames.it/)
  - [https://ai-electrify.com/](https://ai-electrify.com/)
  - [https://bmk.ai/](https://bmk.ai/)
+
 With React.JS:
  - [https://ri.voicelab.ai/](https://ri.voicelab.ai/)
  - and other apps in this stack.
