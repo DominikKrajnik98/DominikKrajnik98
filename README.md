@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me dominikkrajnik98@gmail.com
 
-My current position is Frontend developer at Voicelab.AI:
+My current position is Frontend developer at Ntropy:
 https://voicelab.ai/
 
 My projects created with wordpress:
