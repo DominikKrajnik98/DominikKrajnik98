@@ -5,7 +5,7 @@
 - 📫 How to reach me dominikkrajnik98@gmail.com
 
 My current position is Frontend developer at Ntropy:
-https://voicelab.ai/
+https://ntropy.pl/
 
 My projects created with wordpress:
  - [https://voicelab.ai/](https://voicelab.ai/)
